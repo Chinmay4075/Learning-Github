@@ -1,4 +1,5 @@
 VIBGYOR is the color sense in Rainbow.
+Rainbow contains 7 colors.
 Violet
 Indigo
 Blue
@@ -7,3 +8,4 @@ Yellow
 Orange
 Red
 These are the 7 colors of rainbow.
+This edit is going to be saved in Unicorn branch.
